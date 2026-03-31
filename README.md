@@ -1,6 +1,10 @@
 ## Hi there 👋
-第一種情報処理技術者試験パスしたのはもう何十年前やら（汗）
-おぼえてないことばかりを掘り起こしたりしながら、ボットつくってます（できれば機械学習込で（用途は言えませんｗ
+第一種情報処理技術者試験パスしたのはもう何十年前やら‥‥
+もうすでに忘れてしまっている知識を掘り起こしたりしながら、ボットとかつくっています。
+2026＃2期のG検定には合格しました。身障者なので、自宅受験しか無理でございます😢
+以下の言語は、使える訳ではなく、あくまで学習者を自認し、効率よく知識を取り込むのに７０実践：２０討論：１０机上知識のアプローチをしたいのですが、どうしてもキーボードの打鍵で疲労しやすく、悩んでいます。
+どなたか同士の方、対処法を教えてください💦 なお音声入力も副鼻腔炎が慢性化して発音がこもるため、あまりうまくいかないという‥‥
+
 
 <div style="display: flex;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
 <!--
